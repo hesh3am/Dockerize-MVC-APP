@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Csharp_MVC_APP",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
